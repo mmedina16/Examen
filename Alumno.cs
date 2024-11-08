@@ -8,9 +8,9 @@ namespace Examen
 {
     public class Alumno
     {
-        string NombreAlumno { get; set; }
-        string NumeroCuenta { get; set; }
-        string Email { get; set; }
+        public string NombreAlumno { get; set; }
+        public string NumeroCuenta { get; set; }
+        public string Email { get; set; }
 
     }
 }
